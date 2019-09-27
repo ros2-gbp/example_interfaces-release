@@ -1,3 +1,26 @@
+## example_interfaces (eloquent) - 0.7.1-1
+
+The packages in the `example_interfaces` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --track eloquent --rosdistro eloquent example_interfaces` on `Fri, 27 Sep 2019 12:03:47 -0000`
+
+The `example_interfaces` package was released.
+
+Version of package(s) in repository `example_interfaces`:
+
+- upstream repository: https://github.com/ros2/example_interfaces.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.7.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.16.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## example_interfaces (dashing) - 0.7.1-1
 
 The packages in the `example_interfaces` repository were released into the `dashing` distro by running `/home/jacob/.local/bin/bloom-release -r dashing example_interfaces` on `Thu, 30 May 2019 00:06:44 -0000`
