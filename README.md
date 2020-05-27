@@ -1,3 +1,26 @@
+## example_interfaces (foxy) - 0.9.0-1
+
+The packages in the `example_interfaces` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy example_interfaces` on `Wed, 27 May 2020 02:52:25 -0000`
+
+The `example_interfaces` package was released.
+
+Version of package(s) in repository `example_interfaces`:
+
+- upstream repository: https://github.com/ros2/example_interfaces.git
+- release repository: https://github.com/ros2-gbp/example_interfaces-release.git
+- rosdistro version: `0.8.0-2`
+- old version: `0.8.0-2`
+- new version: `0.9.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## example_interfaces (foxy) - 0.8.0-2
 
 The packages in the `example_interfaces` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy example_interfaces --override-release-repository-push-url git@github.com:ros2-gbp/example_interfaces-release` on `Mon, 04 May 2020 21:16:34 -0000`
