@@ -1,0 +1,12 @@
+Source: ros-foxy-example-interfaces
+Section: misc
+Priority: optional
+Maintainer: Jacob Perron <jacob@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-foxy-action-msgs, ros-foxy-ament-cmake, ros-foxy-rosidl-default-generators, ros-foxy-ros-workspace, ros-foxy-rosidl-typesupport-connext-c, ros-foxy-rosidl-typesupport-connext-cpp, ros-foxy-rosidl-typesupport-fastrtps-c, ros-foxy-rosidl-typesupport-fastrtps-cpp
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-foxy-example-interfaces
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-foxy-action-msgs, ros-foxy-rosidl-default-runtime, ros-foxy-ros-workspace
+Description: Contains message and service definitions used by the examples.
