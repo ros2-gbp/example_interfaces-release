@@ -1,3 +1,26 @@
+## example_interfaces (rolling) - 0.15.0-1
+
+The packages in the `example_interfaces` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling example_interfaces` on `Wed, 06 May 2026 18:44:16 -0000`
+
+The `example_interfaces` package was released.
+
+Version of package(s) in repository `example_interfaces`:
+
+- upstream repository: https://github.com/ros2/example_interfaces.git
+- release repository: https://github.com/ros2-gbp/example_interfaces-release.git
+- rosdistro version: `0.14.1-2`
+- old version: `0.14.1-2`
+- new version: `0.15.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## example_interfaces (kilted) - 0.13.1-1
 
 The packages in the `example_interfaces` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted example_interfaces` on `Fri, 17 Oct 2025 09:22:29 -0000`
