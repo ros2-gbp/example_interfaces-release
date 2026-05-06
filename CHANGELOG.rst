@@ -2,6 +2,9 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.15.0 (2026-05-06)
+-------------------
+
 0.14.1 (2025-07-01)
 -------------------
 * fix cmake deprecation (`#23 <https://github.com/ros2/example_interfaces/issues/23>`_)
