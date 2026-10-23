@@ -2,14 +2,28 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.12.1 (2026-06-02)
+0.15.1 (2026-10-23)
 -------------------
-* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#19 <https://github.com/ros2/example_interfaces/issues/19>`_) (`#20 <https://github.com/ros2/example_interfaces/issues/20>`_)
-  They are both outdated and both no longer serving their
-  intended purpose.
-  (cherry picked from commit 00cb25584ab611c34686e024a06a47728550ef72)
-  Co-authored-by: Chris Lalancette <clalancette@gmail.com>
-* Contributors: mergify[bot]
+* Use the SPDX identifier Apache-2.0 in package.xml license tags (`#26 <https://github.com/ros2/example_interfaces//issues/26>`_)
+* use C++ 20 in default. (`#25 <https://github.com/ros2/example_interfaces//issues/25>`_)
+* Contributors: Michael Carroll, Tomoya Fujita
+
+0.15.0 (2026-05-06)
+-------------------
+
+0.14.1 (2025-07-01)
+-------------------
+* fix cmake deprecation (`#23 <https://github.com/ros2/example_interfaces/issues/23>`_)
+* Contributors: mosfet80
+
+0.14.0 (2025-04-25)
+-------------------
+* Remove .github/ISSUE_TEMPLATE.md (old version of templates) (`#21 <https://github.com/ros2/example_interfaces/issues/21>`_)
+* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#19 <https://github.com/ros2/example_interfaces/issues/19>`_)
+* Contributors: Chris Lalancette, Tomoya Fujita
+
+0.13.0 (2024-04-26)
+-------------------
 
 0.12.0 (2023-08-21)
 -------------------
